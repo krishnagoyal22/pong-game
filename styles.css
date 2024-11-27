@@ -71,6 +71,10 @@ body {
 .player2Score {
   right: calc(50% - 200px);
 }
+.inst2 {
+  position: absolute;
+  top: 80%;
+}
 .startText {
   position: absolute;
   /*top to be checked later*/
